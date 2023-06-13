@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $CHIRRUSER"
+echo "hello user $chirrcurrent"
